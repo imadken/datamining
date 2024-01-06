@@ -3,9 +3,12 @@
 - pandas
 - sklearn
 - scipy
+- matplotlib
+- seaborn
+- plotly
 - streamlit
 
-``pip install numpy pandas scikit-learn scipy streamlit``
+``pip install numpy pandas scikit-learn scipy  matplotlib seaborn plotly streamlit``
 
 ## How to run ?
 After installing **streamlit**, From the command line use this command:
